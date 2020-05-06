@@ -33,9 +33,12 @@
 - 《黑天鹅》（纳西姆·尼古拉斯·塔勒布）
 - 《软技能》
 - 《彼得林奇的成功投资》
+
 ……(还有很多很多，看不完的感觉啊，捂脸)
 
 [2018书单](https://yetanmoney.com/book-list-180718/)
+
 [2018干货整理](https://yetanmoney.com/2018-summary/)
+
 [更新书单和买书经验谈](https://yetanmoney.com/book-list-181007/)
 
