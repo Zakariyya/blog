@@ -6,6 +6,8 @@
 - [编程](https://github.com/Zakariyya/blog/projects/7)（Java，Spring）
 - [网络](https://github.com/Zakariyya/blog/projects/5)（GFW）
 - [Linux](https://github.com/Zakariyya/blog/projects/4)（Git，搭建，linux）
+- [数据结构](https://github.com/Zakariyya/blog/projects/12)
+
 
 ### 次要
 一些乱七八糟的东西
